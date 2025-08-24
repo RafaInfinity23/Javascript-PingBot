@@ -1,0 +1,14 @@
+{
+  "name": "infinity-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "minecraft-server-util": "^5.4.4",
+    "ms": "^2.1.3"
+  }
+}
