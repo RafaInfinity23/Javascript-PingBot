@@ -18,4 +18,5 @@ node src/deploy-commands.js //Para sincronizar os comandos.
 node src/bot.js // Para Iniciar o bot.
 ```
 
-Thanks you :3
+Obrigado.
+
